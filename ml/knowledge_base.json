@@ -1,0 +1,37 @@
+[
+  {
+    "id": "fever_basic_care",
+    "title": "Fever home care in adults",
+    "content": "For mild fever in otherwise stable adults, give paracetamol as per local protocol, encourage oral fluids, light diet, and rest. Watch for danger signs like confusion, chest pain, shortness of breath, persistent high fever for more than 3 days, or any worsening.",
+    "tags": ["fever", "adult"],
+    "source": "Example primary care guideline"
+  },
+  {
+    "id": "headache_warning_signs",
+    "title": "Headache warning signs",
+    "content": "Seek urgent medical review if headache is sudden and severe, associated with neck stiffness, repeated vomiting, confusion, weakness, seizures, or following head trauma.",
+    "tags": ["headache", "neuro"],
+    "source": "Example guideline"
+  },
+  {
+    "id": "diarrhea_oral_rehydration",
+    "title": "Diarrhea and oral rehydration",
+    "content": "Most acute diarrhea is viral. Focus on oral rehydration solution, zinc as per protocol in children, and hygiene. Look for danger signs such as very low urine output, lethargy, blood in stool, or persistent high fever.",
+    "tags": ["diarrhea"],
+    "source": "Example guideline"
+  },
+  {
+    "id": "cough_breathlessness",
+    "title": "Cough and breathlessness",
+    "content": "In patients with cough and shortness of breath, assess oxygen saturation, respiratory rate, chest pain, and ability to speak full sentences. Very low SpO2, fast breathing, or chest pain with exertion require referral.",
+    "tags": ["cough", "shortness of breath"],
+    "source": "Example guideline"
+  },
+  {
+    "id": "general_safety_net",
+    "title": "General safety advice",
+    "content": "If symptoms worsen, new danger signs appear, or the patient feels very unwell at any time, they should seek urgent medical help even if a follow-up appointment is already planned.",
+    "tags": ["general"],
+    "source": "Safety netting"
+  }
+]

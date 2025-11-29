@@ -1,0 +1,23 @@
+# Python dependencies for offline BioBERT / AI engine
+# Core libraries for offline BioBERT + RAG engine
+
+# Hugging Face transformers (for BioBERT and tokenizers)
+transformers
+
+# Deep learning backend (CPU is fine for now)
+torch
+
+# Useful for some tokenizers/models
+sentencepiece
+
+# Speed and device management utilities
+accelerate
+
+# Numeric + array operations
+numpy
+
+# For basic ML utilities (optional, but helpful later)
+scikit-learn
+
+# Later, for vector search / RAG index (we can install when needed)
+# faiss-cpu
