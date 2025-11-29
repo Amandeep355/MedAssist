@@ -1,4 +1,11 @@
-# Python venv
+## Node modules
+node_modules/
+
+# Client build output
+client/dist/
+dist/
+
+# Python virtual environments
 venv/
 ml/venv/
 
@@ -10,8 +17,26 @@ __pycache__/
 .env
 .env.*
 
-# Big model / weight files (if any)
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary folders created by tools
+*.log
+.vscode/
+.idea/
+
+# Big model / weight files
 *.pt
 *.pth
 *.bin
 *.pkl
+
+# Replit / local agent state
+.local/
+
